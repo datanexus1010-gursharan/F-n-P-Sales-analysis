@@ -15,25 +15,25 @@ Order-Delivery Time: 5.53 days
 1. Sales are highest for Anniversaries, Raksha Bandhan, and Holi.
 2. Diwali and Valentine's Day have relatively lower revenue contributions.
 
-##Revenue by Category:
+## Revenue by Category:
 1. Colors and Sweets generate the highest revenue.
 2. Mugs and Plants have the lowest revenue share.
 
-##Revenue by Time:
+## Revenue by Time:
 1. Sales peak during early mornings (0-6 AM) and late evenings (18-22 PM).
 2. There is a dip in orders around midday (10 AM - 12 PM).
 
-##Revenue by Month:
+## Revenue by Month:
 1. February and August show the highest revenue, possibly due to festive and gifting seasons.
 2. April, May, and September have the lowest revenue.
 
-#Top Performers
-##Top 5 Products by Revenue:
+# Top Performers
+## Top 5 Products by Revenue:
 
 1. Magnum Set and Quia Gift are the best-selling products.
 2. Other high-revenue products include Deserunt Box, Dolores Gift, and Harum Pack.
 
-##Top 10 Cities by Orders:
+## Top 10 Cities by Orders:
 
 The highest orders come from Imphal, Kavali, Haridwar, and Dibrugarh.
 Smaller cities like Bhatpara and Bidhannagar have relatively fewer orders.
